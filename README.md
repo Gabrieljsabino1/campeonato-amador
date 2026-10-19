@@ -11,8 +11,6 @@ npm run dev
 
 Sem variáveis de ambiente, a aplicação abre em modo demonstração. O painel pode ser acessado com:
 
-- E-mail: `admin@ligadosamigos.com`
-- Senha: `admin123`
 
 Os dados do modo demonstração ficam no `localStorage` do navegador.
 
